@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(238,243,254,255);
+}
+
+.container {
+    width: 1366px;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 200px;
+    height: 100vh;
+    background-color: rgba(248,243,255,255);
+}
